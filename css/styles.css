@@ -1,0 +1,29 @@
+body{
+  background-color: #ddf3f5;
+}
+hr{
+  background-color: #ddf3f5;
+  border-style:dotted none none;
+  border-width: 5px;
+  border-color: grey;
+  width: 5%;
+}
+
+h1,h3{
+  color:#63b7af;
+}
+
+th,td{
+  padding: 5px;
+}
+
+.profiletable{
+  padding: 15px;
+}
+.profile{
+  border-radius: 100%;
+}
+
+.linktype:hover{
+  color: #ffffdd;
+}
